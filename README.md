@@ -1,1 +1,3 @@
-# crud_mysql_php_jquery_api
+test_table structure
+
+s_no  |  name  |  surname  |  age
